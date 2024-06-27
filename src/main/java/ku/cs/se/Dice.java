@@ -1,5 +1,5 @@
 package ku.cs.se;
-
+//6510450691 Podjanin Wachirawittayakul
 public class Dice {
     private int numSides;
 
